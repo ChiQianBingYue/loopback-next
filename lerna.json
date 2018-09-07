@@ -21,7 +21,8 @@
     "run": {
       "prefix": false,
       "loglevel": "silent",
-      "parallel": true
+      "stream": true,
+      "concurrency": 16
     },
     "clean": {
       "loglevel": "silent",
